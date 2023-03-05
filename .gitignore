@@ -1,0 +1,51 @@
+*.txt
+
+
+
+
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Distribution files
+dist/
+build/
+lib/
+bin/
+out/
+target/
+*.tgz
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Tests
+test/
+__tests__/
+coverage/
+.nyc_output/
+
+# Config files
+*.config.js
+*.config.json
+.env
+
+# Others
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
